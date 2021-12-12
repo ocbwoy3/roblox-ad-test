@@ -1,3 +1,7 @@
 {
-  {"type":"experience","id":7404243423,"image":"nil"}
+  {
+    "type":"experience",
+    "id":"7404243423",
+    "image":"nil"
+  }
 }
