@@ -1,6 +1,7 @@
 # roblox-ad-test
 
-Open-source advertisment system in Roblox.
+**WARNING: The model is broken**
+Open-source advertisment system in Roblox
 
 You can put it in your Roblox game.
 
